@@ -1,4 +1,4 @@
-print('Study graph\n')
+print('Study Tracker\n')
 
 study_graph = []
 
