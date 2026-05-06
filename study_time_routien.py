@@ -58,9 +58,9 @@ while True:
         remove()
 
 
-    cont = input('Do you want to continue(yes/no):').lower()
-    if cont == 'no':
-        print('Thankyou!')
+    play_again = input('Do you want to continue(yes/no):').lower()
+    if play_again == 'no':
+        print('Thank you!')
         break
 
 
