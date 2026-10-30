@@ -36,6 +36,17 @@ All added data is saved to a file for later use.
 
 ## ▶️ Usage
 
-1. Run the program:
-```bash
-python your_file_name.py
+1. Make sure Python is installed.
+2. Download or clone this repository.
+3. Open the project folder in your terminal.
+4. Run the program:
+
+python study_time_routine_.py
+## 🎯 Learning Goals
+
+This project helped me practise:
+- Python functions
+- Lists and dictionaries
+- File handling
+- Loops and conditional statements
+- User input and menu-based programs
